@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "info",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "─꯭─̽⃝ Rʌ͜͡j̈ Bʌ͜͡bʌ ➳ 🩷🪽",
 	description: "Admin and Bot info.",
 	commandCategory: "...",
 	cooldowns: 1,
@@ -24,13 +24,13 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Karachi").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.postimg.cc/Ghq1rScg/B612-20250906-134323-792.jpg"];
+["https://i.postimg.cc/66Dx8VDT/20250919-053640.jpg"];
 var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿) 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 
 (⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎RAJ BABA 💔🥀☜︎︎︎✰
+🔥Bot Admin🔥☞︎︎︎─꯭─̽⃝ Rʌ͜͡j̈ Bʌ͜͡bʌ ➳ 🩷🪽 💔🥀☜︎︎︎✰
 
 🙈bot andmin  facebook id link🙈➪ https://www.facebook.com/share/1ZFUgC1hMv/
 
@@ -38,7 +38,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎HAMi raj ☜︎︎︎✰
+♥️Bot Owner♥️ ☞︎︎︎─꯭─̽⃝ Rʌ͜͡j̈ Bʌ͜͡bʌ ➳ 🩷🪽 ☜︎︎︎✰
 
 bot Owner faceboob id link🙈➪ https://www.facebook.com/share/1ZFUgC1hMv/
 
@@ -53,7 +53,7 @@ bot Owner faceboob id link🙈➪ https://www.facebook.com/share/1ZFUgC1hMv/
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒 HAMZI RAJ 🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒 ─꯭─̽⃝HAMZI Rʌ͜͡j̈ Bʌ͜͡bʌ ➳ 🩷🪽 🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
